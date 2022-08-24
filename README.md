@@ -5,7 +5,7 @@
 ## Dataset Description
 VideoSham is a video manipulation dataset; consisting of diverse, context-rich, and human-centric manipulated videos by professional video editors via 6 spatial and temporal attacks. VideoSham consists of 352 real-world videos and their corresponding manipulated versions (total of 704 videos). We worked with 3 professional video editors hired on <a href="www.upwork.com">Upwork</a>. The editors were shortlisted based on their experience and a trial video editing task. All editors were well-versed with Adobe AfterEffects; the software used for creating these edits. Each editor was assigned tasks, i.e., source videos, start and end timestamp to be edited and a one-line description of the manipulation to be performed. The original videos were selected from <a href="www.vimeo.com">Vimeo</a>. All original videos provide <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> usage rights. The source of the original videos can be found [here](VideoSourceandEdits.csv). 
 
-Given the original videos, we first *trimmed* it to a shorter length (average length of 8 seconds), then we assigned one of the editors the task of editing it. We identified one of six possible manipulation strategies to simulate the effect of misrepresenting facts, these are described below.  
+Given the original videos, we first *trimmed* it to a shorter length (average length of 8 seconds), then we assigned one of the editors the task of editing it. We identified one of six possible manipulation strategies to simulate the effect of misrepresenting facts, these are described below. The source video as well as the type of task assigned to the editor can be found [here](VideoSourceandEdits.csv).  
 
 
 1. **ATTACK 1 (Adding an entity/subject):** In this attack we select an entity or a subject from some other sources and place them in the current video.
@@ -33,18 +33,21 @@ Below is the number of videos edited using each of the six editing strategies.
 | **Grand Total**                                                             |             352 |
 
 
-![This is an image](images/edit_types.png| width=100)
-
-
 ## Dataset Structure
 
-```
-edited/
-uneditted/
-task-list
-```
+The dataset being released is organized as follow:
+
+1. [Source of the videos, and manipulation tasks performed on each](VideoSourceandEdits.csv)
+2. Trimmed videos
+  1. Part 1 (videos 1-179): Click on "Releases" on your right - Unedited-Part1.zip
+  2. Part 2 (videos 180-352): Click on "Releases" on your right - Unedited-Part2.zip
+3. Manipulated videos
+  1. Part 1 (videos 1-179): Click on "Releases" on your right - Processed-Part1.zip
+  2. Part 2 (videos 180-352): Click on "Releases" on your right - Processed-Part2.zip
+
+
 ## Dataset Examples
-Some sample videos can be found in images/VideoShamExamples.pptx
+Some sample videos can be found [here](images/VideoShamExamples.pptx).
 
 ## Citation
 Please cite our paper if you use the VideoSham Dataset in your work.
@@ -57,4 +60,10 @@ Please cite our paper if you use the VideoSham Dataset in your work.
 }
 ```
 
-## Disclaimer and Contact
+## License
+
+This dataset is released under the [Adobe Research License Version 1.1](AdobeResearchLicensev1.1a.txt). 
+
+## Contact
+
+Please contact risinha@adobe.com with your questions. 
