@@ -19,7 +19,7 @@ VideoSham is a video manipulation dataset; consisting of diverse, context-rich, 
 6. **ATTACK 6 (Audio Replaced):** Audio modality is a very important aspect for videos. To manipulate this, we replace the existing audio with some other audio. 
 
 
-| Row Labels                                                                  | Count of Videos |
+| **Type of Manipulation**                                                    | Count of Videos |
 |-----------------------------------------------------------------------------|-----------------|
 | Adding an entity/ Adding a subject                                          |              69 |
 | Audio replaced/Audio added                                                  |              46 |
@@ -27,7 +27,7 @@ VideoSham is a video manipulation dataset; consisting of diverse, context-rich, 
 | Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down   |              59 |
 | Removing an entity/Removing a subject                                       |              79 |
 | Text Replaced/Text Added                                                    |              45 |
-| Grand Total                                                                 |             352 |
+| **Grand Total**                                                             |             352 |
 
 
 
