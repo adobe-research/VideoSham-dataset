@@ -1,0 +1,357 @@
+﻿S.No.,Video-Name,Task,Name/Id in source dataset,Source-Dataset,Manipulation
+62,0061.mp4,Remove the man on the left side (00:00 - 00:05),https://vimeo.com/133674125,Vimeo,Removing an entity/Removing a subject
+63,0062.mp4,Duplicate random frames in between to make it into a 10 second video (00:10 - 00:16),https://vimeo.com/133674125,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+64,0063.mp4,Remove the dog and the leash (01:07 - 01:11),https://vimeo.com/133674125,Vimeo,Removing an entity/Removing a subject
+65,0064.mp4,Cut short to 2 seconds by speeding up the video. (01:34 - 01:40),https://vimeo.com/35514848,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+66,0065.mp4,Duplicate frames and make the video 10 seconds long (00:35 - 00:38),https://vimeo.com/35514848,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+67,0066.mp4,Remove the guy standing on the left (blue shirt)  (03:41 - 03:51),https://vimeo.com/212816789,Vimeo,Removing an entity/Removing a subject
+68,0067.mp4,Remove the two people standing in the corner (01:24 - 01:34),https://vimeo.com/82837911,Vimeo,Removing an entity/Removing a subject
+69,0068.mp4,Remove the groom from the video (01:46 - 01:54),https://vimeo.com/82837911,Vimeo,Removing an entity/Removing a subject
+70,0069.mp4,Duplicate frames to make it seem like the rider is going very slow (00:06 - 00:10),https://vimeo.com/68534760,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+71,0070.mp4,Remove the guy in green shirt (01:30 - 01:40),https://vimeo.com/67455448,Vimeo,Removing an entity/Removing a subject
+72,0071.mp4,"Around 0:42, there is a person is a black coat who passes the last turnstile, can you cut this person out, and make them cross the turnstile at a different time and different turnstile in the the video",https://vimeo.com/10335217,Vimeo,Adding an entity/ Adding a subject
+73,0072.mp4,Insert the person working out in aux9.mp4 into this video 2:49 (remove audio from both videos),https://vimeo.com/343046827 & https://vimeo.com/589427217,Vimeo,Adding an entity/ Adding a subject
+74,0073.mp4,Person at 1:53 in (aux10.mp4)https://vimeo.com/13991708  inserted into https://vimeo.com/67468221,https://vimeo.com/13991708 & https://vimeo.com/67468221,Vimeo,Adding an entity/ Adding a subject
+75,0074.mp4,Add a stationary car at 1:00 to 1:06,https://vimeo.com/58011206,Vimeo,Adding an entity/ Adding a subject
+76,0075.mp4,From 2:33 to 2:43 repeat some of the frame in reverse so that it appears that the man is winding and unwinding the spool of rope. ,https://vimeo.com/58011206,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+77,0076.mp4,Remove the woman walking in the background from 0:15 to 0:21,https://vimeo.com/591113015,Vimeo,Removing an entity/Removing a subject
+78,0077.mp4,Take the person working out (aux11.mp4) and insert him to the left of the man talking. ,https://vimeo.com/591153582 & https://vimeo.com/591133552,Vimeo,Adding an entity/ Adding a subject
+79,0078.mp4,"Repeat frames like he is taking the first bite again, after he takes the second bite. ",https://vimeo.com/591115642,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+80,0079.mp4,Replace the cell phone that the person is holding between 0:02 to 0:10 with a gun. ,https://vimeo.com/591073888,Vimeo,Adding an entity/ Adding a subject
+81,0080.mp4,Speed up the video to make it appear faster than it is. ,https://vimeo.com/590309797,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+82,0081.mp4,Remove the skareboarer in black from the foreground. ,https://vimeo.com/589953741,Vimeo,Removing an entity/Removing a subject
+83,0082.mp4,Remove the person on the left who is speaking on the left in the first 10 seconds,https://vimeo.com/589870843,Vimeo,Removing an entity/Removing a subject
+84,0083.mp4,"For the first 8 seconds, make it appear like the car reverses and then moves forward and leaves. ",https://vimeo.com/106624614,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+85,0084.mp4,"Remove audio, for 10 to 20 seconds, remove the dancer. ",https://vimeo.com/310975663,Vimeo,Removing an entity/Removing a subject
+86,0085.mp4,Drop frames to make it a shorter video,https://vimeo.com/83420559,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+87,0086.mp4,"Extract the horse and rider from the first video (aux12.mp4), and put it as the foreground of the second video. ",https://vimeo.com/189051647 & https://vimeo.com/67468221,Vimeo,Adding an entity/ Adding a subject
+88,0087.mp4,Remove the man walking from right to left about to shake hand (00:00 - 00:04),https://vimeo.com/242403305,Vimeo,Removing an entity/Removing a subject
+89,0088.mp4,Remove the ball between 02:10 - 02:12,https://vimeo.com/88068340,Vimeo,Removing an entity/Removing a subject
+90,0089.mp4,08:26 - 08:36 Remove the guy on the right,https://vimeo.com/218913159,Vimeo,Removing an entity/Removing a subject
+91,0090.mp4,Remove the magician performing tricks in the video (00:31 - 00:38),https://vimeo.com/179666257,Vimeo,Removing an entity/Removing a subject
+92,0091.mp4,1. Place the fire dancer (00:41 - 00:43) from aux13.mp4 in the second video on the left side of the stage (10:43 - 10:47),https://vimeo.com/128105112,Vimeo,Adding an entity/ Adding a subject
+93,0092.mp4,00:04 - 00:08 Make the girl walk slower in between and faster in between and make the video 10 seconds long. Duplicate frames to do so. ,https://vimeo.com/29223790,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+94,0093.mp4,Place aux14.mp4 (either the man or the woman) on the right side of this video.,https://vimeo.com/272992838,Vimeo,Adding an entity/ Adding a subject
+95,0094.mp4,Place the man cropped from aux15.mp4 in this video on the side.,https://vimeo.com/288847586,Vimeo,Adding an entity/ Adding a subject
+96,0095.mp4,"Extract any 5 seconds in this video, and remove the screen with a white wall. If possible put a flag of any other country. ",https://vimeo.com/39718080,Vimeo,Removing an entity/Removing a subject
+97,0096.mp4,Place a ball on his hand when he is moving his hands left and right starting 00:05 seconds. ,https://vimeo.com/63637733,Vimeo,Adding an entity/ Adding a subject
+98,0097.mp4,Change the color of the cabinets behind the man,https://vimeo.com/103525013,Vimeo,Background/Color Change
+99,0098.mp4,"Place an open bo0k on all the tables, and add some random text on the whiteboard. ",https://vimeo.com/494016266,Vimeo,Adding an entity/ Adding a subject
+100,0099.mp4,Between (00:48 - 00:56) make the screen part flicker. ,https://vimeo.com/71261331,Vimeo,Background/Color Change
+101,0100.mp4,Change the backgound between (00:41 - 00:49) to make it seem like the guy is sitting in the open with lot of trees. ,https://vimeo.com/339561397,Vimeo,Background/Color Change
+102,0101.mp4,Remove one of the persons in the frame. (1:36 - 1:41),https://vimeo.com/428118352,Vimeo,Removing an entity/Removing a subject
+103,0102.mp4,Place the man in aux16.mp4 on the side of the man sitting,https://vimeo.com/432310014,Vimeo,Adding an entity/ Adding a subject
+104,0103.mp4,"In the first 4 seconds, remove the ball and the text that appears diagonally",https://vimeo.com/444709127,Vimeo,Removing an entity/Removing a subject
+105,0104.mp4,Remove one or more faces on this to the no face (on the corner bottom right),https://vimeo.com/428917093,Vimeo,Removing an entity/Removing a subject
+106,0105.mp4,"Trim to 5 seconds (00:00 - 00:05) and then in that 5 seconds, duplicate frames in between to make it look like the guy is going slow in between and fast in between and pausing it now and then. ",https://vimeo.com/252551763,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+107,0106.mp4,Remove the guy in the front (00:00 -00:05),https://vimeo.com/126440147,Vimeo,Removing an entity/Removing a subject
+108,0107.mp4,Place a gun on the table (00:20 - 00:25),https://vimeo.com/60884924,Vimeo,Adding an entity/ Adding a subject
+109,0108.mp4,Place a bouncing ball/ball on the table OR place a bottle/glass on the table (00:02 - 00:07).,https://vimeo.com/173637291,Vimeo,Adding an entity/ Adding a subject
+110,0109.mp4,Remove one of the three dancers for any 5 seconds of the video to make it seem like there are only two dancers. ,https://vimeo.com/52291102,Vimeo,Removing an entity/Removing a subject
+111,1002.mp4,Remove the soccar ball 0:04-0:07,https://vimeo.com/401995350,Vimeo,Removing an entity/Removing a subject
+112,1003.mp4,Remove the person speaking on the right from 0:20-0:25,https://vimeo.com/312004165,Vimeo,Removing an entity/Removing a subject
+113,1004.mp4,"For 0:01 - 0:12, can you drop some frames to reduce the length of the video to 0:08 seconds",https://vimeo.com/26432864,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+114,1005.mp4,Create a 5 second video of the excercising individual (excluding all background) from aux101.mp4 on the water in the video. To make it appear like this person is floating on top of the water. ,https://vimeo.com/154484610 & https://vimeo.com/586381310 ,Vimeo,Adding an entity/ Adding a subject
+115,1006.mp4,Reverse the video,https://vimeo.com/385540,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+116,1007.mp4,Drop frames from 0:00 to 0:15 to make it into a 10 second video,https://vimeo.com/57105959 ,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+117,1008.mp4,Remove the TV screen from the frames 0:25 to 0:29,https://vimeo.com/302154989,Vimeo,Removing an entity/Removing a subject
+118,1009.mp4,Take out the dog on the left in the first video (aux102.mp4) and make it seem like he is sittin gon the couch next to the couple on the left (1:34 - 1:38),https://vimeo.com/64236855 & https://vimeo.com/6664659,Vimeo,Adding an entity/ Adding a subject
+119,1010.mp4,Remove the guy on the right (00:28 - 00:30),https://vimeo.com/58211926,Vimeo,Removing an entity/Removing a subject
+120,1011.mp4,Remove the guy in checkered shirt (00:00 - 00:02),https://vimeo.com/44356620,Vimeo,Removing an entity/Removing a subject
+121,1012.mp4,Remove the girl in the video (01:46 - 01:50),https://vimeo.com/148680608,Vimeo,Removing an entity/Removing a subject
+122,1013.mp4,Trim to (3:05 - 3:10) and remove the guitar noise. Place the noise of a cow moo-ing instead. ,https://vimeo.com/126652854,Vimeo,Audio replaced/Audio added
+123,1014.mp4,From 0:13-0:19 remove the dog in the frame,https://vimeo.com/41679480,Vimeo,Removing an entity/Removing a subject
+124,1015.mp4,Extract the cat from aux103.mp4 (from anywhere in this video) and place it on the road next to the dancer (00:14 - 00:17),https://vimeo.com/65724287 & https://vimeo.com/215676528,Vimeo,Adding an entity/ Adding a subject
+125,1016.mp4,Remove the text that appears on the wall (00:18 - 00:22),https://vimeo.com/215676528,Vimeo,Removing an entity/Removing a subject
+126,1017.mp4,Retain the video as it is till (00:00 - 00:15) and when the girl throws the ball in the air at 00:09 make it disappear after that.,https://vimeo.com/56599760,Vimeo,Removing an entity/Removing a subject
+127,1018.mp4,"Trim to 5 seconds (00:00 - 00:05) and then in that 5 seconds, duplicate frames in between to make it look like the guy is going slow in between and fast in between and pausing it now and then. ",https://vimeo.com/252551763,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+128,1019.mp4,Remove the guy in the front (00:00 -00:05),https://vimeo.com/126440147,Vimeo,Removing an entity/Removing a subject
+129,1020.mp4,Place a gun on the table (00:20 - 00:25),https://vimeo.com/60884924,Vimeo,Adding an entity/ Adding a subject
+130,1021.mp4,Place a bouncing ball/ball on the table OR place a bottle/glass on the table (00:02 - 00:07).,https://vimeo.com/173637291,Vimeo,Adding an entity/ Adding a subject
+131,1022.mp4,Remove one of the three dancers for any 5 seconds of the video to make it seem like there are only two dancers. ,https://vimeo.com/52291102,Vimeo,Removing an entity/Removing a subject
+132,1023.mp4,"For any 2-3 seconds of the video, remoev the girl in blue t-shirt. OR trim to any 10 seconds and speed up the video in between. ",https://vimeo.com/9262689,Vimeo,Removing an entity/Removing a subject
+133,1024.mp4,Remove the trumpet noise and place a guitar sound (aux104.mp4) in the video (Truim to any 2-3 seconds),https://vimeo.com/89156372,Vimeo,Audio replaced/Audio added
+134,1025.mp4,Remove the blue-shirt guy (3:06- 3:09),https://vimeo.com/258633264,Vimeo,Removing an entity/Removing a subject
+135,1026.mp4,"From 0:02 to 0:12, change the color of the car to blue",https://vimeo.com/144604621,Vimeo,Background/Color Change
+136,1027.mp4,From 0:01 - 0:10 change the background of this person to green,https://vimeo.com/586499566,Vimeo,Background/Color Change
+137,1028.mp4,0:00 to 0:06 change the text in the blue box to lorem ipsum,https://vimeo.com/585612371,Vimeo,Text Replaced/Text Added
+138,1029.mp4,"0:00 to 0:02, remove the person doing yoga on the beach",https://vimeo.com/585610464,Vimeo,Removing an entity/Removing a subject
+139,1030.mp4,"Put a person in front of the tractor at 0:33 to 0:36, seeming like he will be run over",https://vimeo.com/443842381,Vimeo,Adding an entity/ Adding a subject
+140,1031.mp4,0:00 to 0:10 put a cap on the speaker's head,https://vimeo.com/108956636,Vimeo,Adding an entity/ Adding a subject
+141,1032.mp4,Change the color of this guy's T-shirt to red.,https://vimeo.com/1512370,Vimeo,Background/Color Change
+142,1033.mp4,Change the background screen to read random english alphabets,https://vimeo.com/69915360,Vimeo,Background/Color Change
+143,1034.mp4,Place a big bird flying (00:32 - 00:38),https://vimeo.com/77473432,Vimeo,Adding an entity/ Adding a subject
+144,1035.mp4,"Extract first five seconds (Replace the date in the first few frames to read October 40, 2100",https://vimeo.com/30302391,Vimeo,Text Replaced/Text Added
+145,1036.mp4,Extract (00:10 - 00:17) and place a dog walking between the two women,https://vimeo.com/25328042,Vimeo,Adding an entity/ Adding a subject
+146,1037.mp4,"Extract between 00:55 - 01:01, and place a lot of smoke coming behind the trees to indicate a huge fire somewhere. ",https://vimeo.com/24920489,Vimeo,Background/Color Change
+147,1038.mp4,"Extract the first 9 seconds, slow down in between to make it seem like the people are walking slow in between and fast otherwise. ",https://vimeo.com/32440817,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+148,1039.mp4,Extract between 0:05 -  0:10 seconds. Make the zebra crossing yellow in color instead of white. ,https://vimeo.com/196063372,Vimeo,Background/Color Change
+149,1040.mp4,Extract between 07:21 - 07:28. Change the color of the pot on the stove to bright blue. ,https://vimeo.com/19533647,Vimeo,Background/Color Change
+150,1041.mp4,Extract first 5 seconds. Remove the guy on the right. ,https://vimeo.com/141671941,Vimeo,Removing an entity/Removing a subject
+151,1042.mp4,"Add the person from aux105 to the first 4-5 seconds of this video (with or without the ball, which ever is easier). ",https://vimeo.com/430889601 ,Vimeo,Adding an entity/ Adding a subject
+152,1043.mp4,"This is the same as aux105, remove the green ball from this video",https://vimeo.com/386690758,Vimeo,Removing an entity/Removing a subject
+153,1044.mp4,"From 0:06 to 0:10 replace ""Siracus"" to ""New York""",https://vimeo.com/314365192,Vimeo,Text Replaced/Text Added
+154,1045.mp4,Drop frames from 0:00 to 0:15 to make it into a 10 second video,https://vimeo.com/426861929,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+155,1046.mp4,Add a necklace on the speaks for the first 10 seconds of the videos,https://vimeo.com/284280965,Vimeo,Adding an entity/ Adding a subject
+156,1047.mp4,"Same video as last one, remove the microphone from the video, first 10 seconds",https://vimeo.com/284280965,Vimeo,Removing an entity/Removing a subject
+157,1048.mp4,"Write ""Santa Maria"" on the hull of the boat",https://vimeo.com/409779188,Vimeo,Text Replaced/Text Added
+158,1049.mp4,Make it appear that the eagle is carrying a stick,https://vimeo.com/442988501,Vimeo,Adding an entity/ Adding a subject
+159,1050.mp4,"Make the color of the wall red, for the first 10 seconds",https://vimeo.com/413228325,Vimeo,Background/Color Change
+160,1051.mp4,Speed up the video to appear realtime,https://vimeo.com/156068027,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+161,1052.mp4,Add rabbit 0:05-0:11 seconds,https://vimeo.com/597357234,Vimeo,Adding an entity/ Adding a subject
+162,1053.mp4,Change shirt color from 00:03 to 00:07,https://vimeo.com/597349332,Vimeo,Background/Color Change
+163,1054.mp4,Remove the writing on the wall from 11 to 15 seconds.,https://vimeo.com/597342168,Vimeo,Removing an entity/Removing a subject
+164,1055.mp4,Change the text in the frame on the shelf from 50 to 59 seconds,https://vimeo.com/597274752,Vimeo,Text Replaced/Text Added
+165,1056.mp4,Change the color of the box 3-9 seconds to green,https://vimeo.com/597274565,Vimeo,Background/Color Change
+166,1057.mp4,remove the crosses on the wall and the chandelier in the mirror. 10-15 sec,https://vimeo.com/597252378,Vimeo,Removing an entity/Removing a subject
+167,1058.mp4,Change movement speed for the first 10 seconds,https://vimeo.com/597827908,Vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+168,1059.mp4,Replace guitar sound with piano sound,https://vimeo.com/597648362,Vimeo,Audio replaced/Audio added
+169,1060.mp4,remove the skate guy in the center 00:10-00:19 sec,https://vimeo.com/597689592,Vimeo,Removing an entity/Removing a subject
+170,2002.mp4,Place a door/wall/curtain between the two men talking (01:35 - 01:45),https://vimeo.com/355102401,Vimeo,Adding an entity/ Adding a subject
+171,2003.mp4,Remove the guy sitting on the stone,https://vimeo.com/299962583,Vimeo,Removing an entity/Removing a subject
+172,2004.mp4,Extract the first 5 seconds. Mute it and put guitar audio (aux201.mp4),https://vimeo.com/110362314,Vimeo,Audio replaced/Audio added
+173,2005.mp4,Extract few seconds from the video and place the drum audio instead (aux202.mp4),https://vimeo.com/504474710,Vimeo,Audio replaced/Audio added
+174,2006.mp4,Extract a few seconds of this video and place 2 gunshot noises in the background.,https://vimeo.com/98400457,Vimeo,Audio replaced/Audio added
+175,2007.mp4,"From 0:05 to 0:15, change the text on the right to read ""The quick brown fox""",https://vimeo.com/586270825,Vimeo,Text Replaced/Text Added
+176,2008.mp4,"From 0:00 to 0:08, change the background with the image of the sky",https://vimeo.com/586167329,Vimeo,Background/Color Change
+177,2009.mp4,"The tractor in 0:24 - 0:29, change the color of that to red",https://vimeo.com/68450171,Vimeo,Background/Color Change
+178,2010.mp4,"This is the same video as 2009, cut out the red car from 0:38-0:41, and put it on a cartoon road (you can draw something simple yourself)",https://vimeo.com/68450171,Vimeo,Adding an entity/ Adding a subject
+179,2011.mp4,Cut out the red car from aux203.mp4 and put it on an appropriate road from 2011.mp4,https://vimeo.com/20186396 ,Vimeo,Adding an entity/ Adding a subject
+180,4001.mp4,Change T-shirt color to green 00:20-00:25,https://vimeo.com/597991567,vimeo,Background/Color Change
+181,4002.mp4,"Change text from 00:16 - 00:21 sec. on John Conor, 39 Aug 2045",https://vimeo.com/598248364,vimeo,Text Replaced/Text Added
+182,4003.mp4,Speed up the cyclist by 00: 11-00: 19 seconds,https://vimeo.com/66699482,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+183,4004.mp4,Replace the sound with the sound of a chicken for women and a cock for a man. 00:02-00:12 sec.,https://vimeo.com/597420441,vimeo,Audio replaced/Audio added
+184,4005.mp4,Add a boat to the river in the center at the top 01:29-01:34,https://vimeo.com/28083516,vimeo,Adding an entity/ Adding a subject
+185,4006.mp4,Remove from the frame a woman in a white T-shirt and gray shorts 01: 02-01: 07,https://vimeo.com/67078243,vimeo,Removing an entity/Removing a subject
+186,4007.mp4,Change background color to wood / wallpaper 00:02-00:07,https://vimeo.com/598354175,vimeo,Background/Color Change
+187,4008.mp4,Change the title of the book to 00:07-00:12 sec.,https://vimeo.com/597554558,vimeo,Text Replaced/Text Added
+188,4009.mp4,Speed up from 00:04-00:14,https://vimeo.com/597593560,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+189,4010.mp4,Change sound from 00:08-00:13 to cow moo,https://vimeo.com/597438331,vimeo,Audio replaced/Audio added
+190,4011.mp4,Add birds in the air or animals in the meadow 00:02-00:07,https://vimeo.com/597428865,vimeo,Adding an entity/ Adding a subject
+191,4012.mp4,Remove books on the shelf from 00: 21-00: 26 sec.,https://vimeo.com/597424789,vimeo,Removing an entity/Removing a subject
+192,4013.mp4,Change the color of the jacket to red from 00:01-00:06,https://vimeo.com/597602352,vimeo,Background/Color Change
+193,4014.mp4,Change boat name 00:10-00:15 sec,https://vimeo.com/597499716,vimeo,Text Replaced/Text Added
+194,4015.mp4,Duplicate and flip multiple frames 00:00-00:10 seconds,https://vimeo.com/597399462,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+195,4016.mp4,Change the sound to saxophone and piano 00:20-00:26 sec.,https://vimeo.com/596889450,vimeo,Audio replaced/Audio added
+196,4017.mp4,"Instead of books on the right, add a parrot from 00:00-00:07 sec.",https://vimeo.com/597418378,vimeo,Adding an entity/ Adding a subject
+197,4018.mp4,Remove running people from 00:15-00:20 sec.,https://vimeo.com/597430433,vimeo,Removing an entity/Removing a subject
+198,4019.mp4,Change mask color to pink 00:00-00:05,https://vimeo.com/597420983,vimeo,Background/Color Change
+199,4020.mp4,Change the inscription on the wall to Aquaman 00:00-00:05,https://vimeo.com/597422960,vimeo,Text Replaced/Text Added
+200,4021.mp4,Slow down and duplicate some frames from 00:05-00:15,https://vimeo.com/597393632,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+201,4022.mp4,Replace the sound with the voice of a man 00:00-00:05,https://vimeo.com/596695610,vimeo,Audio replaced/Audio added
+202,4023.mp4,Add a flying bird 00:00-00:05 sec.,https://vimeo.com/597366916,vimeo,Adding an entity/ Adding a subject
+203,4024.mp4,Remove several people on the field from 00:09-00:14,https://vimeo.com/597510139,vimeo,Removing an entity/Removing a subject
+204,4025.mp4,Change the color of the jacket from green to yellow 00:20-00:25 sec.,https://vimeo.com/597276648,vimeo,Background/Color Change
+205,4026.mp4,Replace the Tokyo 2020 lettering with Wakanda 3000 from 00: 00-00: 05 sec.,https://vimeo.com/597386204,vimeo,Text Replaced/Text Added
+206,4027.mp4,Slow down and speed up the video from 00:10-00:20 sec.,https://vimeo.com/597391006,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+207,4028.mp4,Replace the sound with a swoosh from 01: 10-01: 15,https://vimeo.com/597243373,vimeo,Audio replaced/Audio added
+208,4029.mp4,Add a cat on the left 00:05-00:15 sec.,https://vimeo.com/596923931,vimeo,Adding an entity/ Adding a subject
+209,4030.mp4,Remove person to the left 01:10-01:15 sec.,https://vimeo.com/44036774,vimeo,Removing an entity/Removing a subject
+210,4031.mp4,Change the color of the shirt to green 00:05-00:10,https://vimeo.com/593529394,vimeo,Background/Color Change
+211,4032.mp4,Change name to Juan Rowling 00:03-00:08 sec.,https://vimeo.com/596697360,vimeo,Text Replaced/Text Added
+212,4033.mp4,Slow down and speed up video fragments by 00:11-00:21 sec.,https://vimeo.com/597148141,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+213,4034.mp4,Replace the noise of the river with the noise of the sea,https://vimeo.com/596630146,vimeo,Audio replaced/Audio added
+214,4035.mp4,Add a monkey in the window at 00:10-00:20 sec.,https://vimeo.com/596806542,vimeo,Adding an entity/ Adding a subject
+215,4036.mp4,"Remove the first two boats, any 5 sec.",https://vimeo.com/96843335,vimeo,Removing an entity/Removing a subject
+216,4037.mp4,Change the color of the iguana to purple 00:02-00:07 sec,https://vimeo.com/596689212,vimeo,Background/Color Change
+217,4038.mp4,Replace the name in the frame with Rosa Santos 00:00-00:06 sec,https://vimeo.com/596508943,vimeo,Text Replaced/Text Added
+218,4039.mp4,"Slow down, speed up video frames by 00:00-00:12 sec",https://vimeo.com/596453710,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+219,4040.mp4,Replace the guy's voice with a Cat serenade 00:10-00:20 sec,https://vimeo.com/596491037,vimeo,Audio replaced/Audio added
+220,4041.mp4,Add an elephant walking in the background 00: 00-00: 06 sec,https://vimeo.com/593840361,vimeo,Adding an entity/ Adding a subject
+221,4042.mp4,Remove the baseball bat from the hands of Man 00: 38-00: 43 seconds,https://vimeo.com/593854198,vimeo,Removing an entity/Removing a subject
+222,4043.mp4,Change T-shirt color to white 00:10-00:16 sec,https://vimeo.com/593542416,vimeo,Background/Color Change
+223,4044.mp4,"Replace the text with ""teacher Bim Bom"" 00: 00-00: 06 sec.",https://vimeo.com/596058879,vimeo,Text Replaced/Text Added
+224,4045.mp4,Slow down or speed up the first 10 sec.,https://vimeo.com/596821776,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+225,4046.mp4,Add Saxophone sound at 00:00-00:10 sec.,https://vimeo.com/596440587,vimeo,Audio replaced/Audio added
+226,4047.mp4,Add a running dog next to it at 00:00-00:10 sec.,https://vimeo.com/596437197,vimeo,Adding an entity/ Adding a subject
+227,4048.mp4,Remove the referee (in a yellow T-shirt) 00:21-00:26 sec,https://vimeo.com/594164027,,Removing an entity/Removing a subject
+228,4049.mp4,Change the background to the stands 00:10-00:15 sec.,https://vimeo.com/596514401,vimeo,Background/Color Change
+229,4050.mp4,"Add the inscription ""SPORT"" on the wall 00:00-00:10 sec.",https://vimeo.com/596453753,vimeo,Text Replaced/Text Added
+230,4051.mp4,Duplicate every 3rd frame 00: 00-00: 10 sec.,https://vimeo.com/596453668,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+231,4052.mp4,Replace the sound with the sound of a violin 00: 00-00: 10 sec,https://vimeo.com/594374844,vimeo,Audio replaced/Audio added
+232,4053.mp4,Add an aquarium with fish to the table 00: 00-00: 10 sec.,https://vimeo.com/596401298,vimeo,Adding an entity/ Adding a subject
+233,4054.mp4,Remove the person in the mirror 00: 07-00: 12 sec,https://vimeo.com/595895517,,Removing an entity/Removing a subject
+234,4055.mp4,Change the blue color on all equipment in the frame to green 00: 30-00: 35 sec,https://vimeo.com/596511653,vimeo,Background/Color Change
+235,4056.mp4,Change name 00: 04-00: 10 sec to John Smith. Pediatrician,https://vimeo.com/596046529,vimeo,Text Replaced/Text Added
+236,4057.mp4,"Speed up, slow down by 00:00 - 00:12 sec",https://vimeo.com/596052790,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+237,4058.mp4,Add piano sound 00: 05-00: 15 sec,https://vimeo.com/596040870,vimeo,Audio replaced/Audio added
+238,4059.mp4,Add a festive cone on the head for all participants 00: 02-00: 07 sec,https://vimeo.com/596056867,vimeo,Adding an entity/ Adding a subject
+239,4060.mp4,Remove the player who stands at the gate (purple) 00: 00-00: 05 sec,https://vimeo.com/594307516,vimeo,Removing an entity/Removing a subject
+240,4061.mp4,Change the color of the shirt from white to purple 00: 00-00: 05 sec,https://vimeo.com/593434465,vimeo,Background/Color Change
+241,4062.mp4,"Add text ""Auto syndicate"" to billboard 00: 03-00: 08 sec",https://vimeo.com/595609543,vimeo,Text Replaced/Text Added
+242,4063.mp4,Speed up and duplicate frames 00: 14-00: 24 sec,https://vimeo.com/595745504,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+243,4064.mp4,Replace the sound with the sound of violin and drums 00: 08-00: 18 sec,https://vimeo.com/596030827,vimeo,Audio replaced/Audio added
+244,4065.mp4,Add birds sitting on wires 00: 00-00: 05 sec,https://vimeo.com/595677200,vimeo,Adding an entity/ Adding a subject
+245,4066.mp4,Remove falling object 00: 01-00: 06 sec,https://vimeo.com/596497425,vimeo,Removing an entity/Removing a subject
+246,4067.mp4,Change wall color to black 00: 10-00: 15 sec,https://vimeo.com/593805127,vimeo,Background/Color Change
+247,4068.mp4,"Replace the text in the background with ""Lorem Ipsum"" 00: 00-00: 10",https://vimeo.com/595884987,vimeo,Text Replaced/Text Added
+248,4069.mp4,Duplicate and flip multiple frames 00: 00-00: 10 seconds,https://vimeo.com/595406055,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+249,4070.mp4,Replace sound with accordion sound 00: 45-00: 55 sec,https://vimeo.com/594276983,vimeo,Audio replaced/Audio added
+250,4071.mp4,Add a patch on one eye to the person on the right 00: 01-00: 06 sec,https://vimeo.com/595475504,vimeo,Adding an entity/ Adding a subject
+251,4072.mp4,Remove the flower on the left at 00: 14-00: 19,https://vimeo.com/596059238,vimeo,Removing an entity/Removing a subject
+252,4073.mp4,Change the background to a mountain landscape 00: 00-00: 7 sec,https://vimeo.com/593895678,vimeo,Background/Color Change
+253,4074.mp4,"Replace the text ""Hakuna Matata"" with the text ""Lorem Ipsum"" 00: 00-00: 06 sec",https://vimeo.com/595416185,vimeo,Text Replaced/Text Added
+254,4075.mp4,Duplicate and accelerate 00: 00-00: 08 sec,https://vimeo.com/595405905,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+255,4076.mp4,Replace the sound with a violin sound 00: 00-00: 07,https://vimeo.com/595890072,vimeo,Audio replaced/Audio added
+256,4077.mp4,Add a bottle to the table 00: 25-00: 30 sec,https://vimeo.com/595419052,vimeo,Adding an entity/ Adding a subject
+257,4078.mp4,Remove the ball at 00: 00-00: 05 sec,https://vimeo.com/594332615,vimeo,Removing an entity/Removing a subject
+258,4079.mp4,Replace the background with footage (video) from the seashore 00: 03-00: 08 sec,https://vimeo.com/596036873,vimeo,Background/Color Change
+259,4080.mp4,Replace house number with 77777 for 00: 00-00: 05 sec,https://vimeo.com/594871453,vimeo,Text Replaced/Text Added
+260,4081.mp4,"Slow down, speed up video fragments",https://vimeo.com/594868658,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+261,4082.mp4,Add a standing ovation 00: 01-00: 11 sec,https://vimeo.com/595021856,vimeo,Audio replaced/Audio added
+262,4083.mp4,Add any person to an empty chair 00: 00-00: 07 sec,https://vimeo.com/595361625,vimeo,Adding an entity/ Adding a subject
+263,4084.mp4,Remove a sheet of paper from your hands 00: 18-00: 23,https://vimeo.com/593414483,vimeo,Removing an entity/Removing a subject
+264,4085.mp4,Change the color of a person's clothes in white to blue 00: 05-00: 10 sec,https://vimeo.com/595978260,vimeo,Background/Color Change
+265,4086.mp4,"Add ""Sport is Life"" to the screen in the center of the hall 00: 00-00: 10 sec",https://vimeo.com/594861722,vimeo,Text Replaced/Text Added
+266,4087.mp4,"On the screen of the lower monitor, remove the video broadcast and write the word ""Football"" 00: 06-00: 12 sec",https://vimeo.com/594826570,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+267,4088.mp4,Add birdsong 00: 00-00: 07,https://vimeo.com/600683034,vimeo,Audio replaced/Audio added
+268,4089.mp4,Add a car passing near the antennas 00: 01-00: 06 sec,https://vimeo.com/595347007,vimeo,Adding an entity/ Adding a subject
+269,4090.mp4,Remove the person who says 00: 02-00: 07 sec,https://vimeo.com/595986041,vimeo,Removing an entity/Removing a subject
+270,4091.mp4,Change the color of player # 8 from orange to pink 00: 08-00: 13 sec,https://vimeo.com/595406073,vimeo,Background/Color Change
+271,4092.mp4,Change name to Gina Cooney 00: 00-00: 10 sec,https://vimeo.com/594725086,vimeo,Text Replaced/Text Added
+272,4093.mp4,Duplicate and flip frames,https://vimeo.com/594797541,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+273,4094.mp4,Add applause sound at 00: 01-00: 11 sec,https://vimeo.com/594543275,vimeo,Audio replaced/Audio added
+274,4095.mp4,Add ducks swimming in the water 00: 01-00: 06 sec,https://vimeo.com/595313369,vimeo,Adding an entity/ Adding a subject
+275,4096.mp4,Remove the guy in red gloves (in the background) 00: 11-00: 16 sec,https://vimeo.com/593592864,vimeo,Removing an entity/Removing a subject
+276,4097.mp4,Change the background to the stadium running track,https://vimeo.com/596006290,vimeo,Background/Color Change
+277,4098.mp4,"Add the text ""Lorem Ipsum"" to the hang glider wing 00: 06-00: 12 sec",https://vimeo.com/594766530,vimeo,Text Replaced/Text Added
+278,4099.mp4,Speed up and slow down video fragments 00: 00-00: 10 sec,https://vimeo.com/594544354,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+279,4100.mp4,Add whistle sound at 00: 01-00: 13 sec,https://vimeo.com/594645920,vimeo,Audio replaced/Audio added
+280,4101.mp4,Add a plane in the sky 00: 18-00: 26 sec,https://vimeo.com/595068560,vimeo,Adding an entity/ Adding a subject
+281,4102.mp4,Remove the second athlete in the background 00: 46-00: 51 sec,https://vimeo.com/594245144,,Removing an entity/Removing a subject
+282,4103.mp4,Change T-shirt color from blue to red 00: 38-00: 43 sec,https://vimeo.com/595563550,vimeo,Background/Color Change
+283,4104.mp4,Change text to Everything has its time 02: 40-02: 45,https://vimeo.com/600423258,vimeo,Text Replaced/Text Added
+284,4105.mp4,Speed up and slow down video fragments,https://vimeo.com/594681744,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+285,4106.mp4,Add violin sound 00: 00-00: 05,https://vimeo.com/592382077,vimeo,Audio replaced/Audio added
+286,4107.mp4,Add a hat to a woman 00: 00-00: 06 sec,https://vimeo.com/594688836,vimeo,Adding an entity/ Adding a subject
+287,4108.mp4,Remove player # 5 from the field from 00: 15-00: 20,https://vimeo.com/600699718,vimeo,Removing an entity/Removing a subject
+288,4109.mp4,Change the background color of the wall directly above the mirror to yellow 00: 05-00: 10,https://vimeo.com/592744401,vimeo,Background/Color Change
+289,4110.mp4,"Change the text to ""What is this, you ask?
+This is a 20 euro bill "" 00: 01-00: 05",https://vimeo.com/600138940,vimeo,Text Replaced/Text Added
+290,4111.mp4,Accelerate slow down frames 00: 00-00: 10 sec,https://vimeo.com/593940629,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+291,4112.mp4,Replace the sound with an accordion sound 00: 00-00: 10,https://vimeo.com/600004454,vimeo,Audio replaced/Audio added
+292,4113.mp4,Add animals on the shore 00: 00-00: 07 sec,https://vimeo.com/594394190,vimeo,Adding an entity/ Adding a subject
+293,4114.mp4,Remove people in the frame 01: 23-01: 28,https://vimeo.com/594994854,vimeo,Removing an entity/Removing a subject
+294,4115.mp4,Change shirt color from blue to brown 00: 02-00: 07 sec,https://vimeo.com/594172784,vimeo,Background/Color Change
+295,4116.mp4,Change name to Paulie Johnson Sports school director 00: 00-00: 05,https://vimeo.com/591847337,vimeo,Text Replaced/Text Added
+296,4117.mp4,"Speed up, duplicate video frames 00: 02-00: 11",https://vimeo.com/598913017,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+297,4118.mp4,Replace the sound with a piano sound 00: 01-00: 10,https://vimeo.com/599559954,vimeo,Audio replaced/Audio added
+298,4119.mp4,Add a helicopter in the sky from 00: 06-00: 12,https://vimeo.com/600931680,vimeo,Adding an entity/ Adding a subject
+299,4120.mp4,Remove the referee on the left 00: 28-00: 33,https://vimeo.com/600693878,vimeo,Removing an entity/Removing a subject
+300,4121.mp4,Change the color of the shirt to orange 03: 37-03: 42,https://vimeo.com/593624896,vimeo,Background/Color Change
+301,4122.mp4,Change name to Jon Snow Regional Representative 00: 07-00: 12,https://vimeo.com/600635941,vimeo,Text Replaced/Text Added
+302,4123.mp4,Slow down and duplicate video fragments 00: 02-00: 10,https://vimeo.com/592518683,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+303,4124.mp4,Replace the sound with the sound of coyotes 00: 05-00: 20 sec,https://vimeo.com/596076807,vimeo,Audio replaced/Audio added
+304,4125.mp4,Add a flying butterfly 00: 07-00: 12,https://vimeo.com/592403838,vimeo,Adding an entity/ Adding a subject
+305,4126.mp4,Remove the guy in black from the frame 00: 01-00: 07,https://vimeo.com/599099988,vimeo,Removing an entity/Removing a subject
+306,4127.mp4,Change hair color 00: 14-00: 19 sec,https://vimeo.com/377524158,vimeo,Background/Color Change
+307,4128.mp4,Change name to Max Peet Chief Engineer 00: 16-00: 21,https://vimeo.com/600709115,vimeo,Text Replaced/Text Added
+308,4129.mp4,Slow down and speed up video fragments 00: 15-00: 25,https://vimeo.com/591949503,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+309,4130.mp4,Change sound to guitar and piano 00: 02-00: 12 sec,https://vimeo.com/593812182,vimeo,Audio replaced/Audio added
+310,4131.mp4,Add a sailing ship on the horizon 00: 36-00: 41,https://vimeo.com/591890121,vimeo,Adding an entity/ Adding a subject
+311,4132.mp4,Remove the referee (in a yellow T-shirt) 00: 21-00: 26 sec,https://vimeo.com/594164027,vimeo,Removing an entity/Removing a subject
+312,4133.mp4,Change the background to green wallpaper 00: 00-00: 05,https://vimeo.com/591852197,vimeo,Background/Color Change
+313,4134.mp4,"Instead of the picture on the back right, make the inscription ""Life is movement"" 00: 06-00: 16",https://vimeo.com/592868409,vimeo,Text Replaced/Text Added
+314,4135.mp4,Slow down and speed up video fragments from 00: 00-00: 06,https://vimeo.com/599699544,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+315,4136.mp4,Add drum sound 00: 06-00: 11,https://vimeo.com/598913358,vimeo,Audio replaced/Audio added
+316,4137.mp4,Add a sheet of paper to the board from 00: 10-00: 15,https://vimeo.com/593296010,vimeo,Adding an entity/ Adding a subject
+317,4138.mp4,Remove a group of players walking to the side to the left 00: 03-00: 08 sec.,https://vimeo.com/596497867,vimeo,Removing an entity/Removing a subject
+318,4139.mp4,Change wall color 02: 00-02: 05,https://vimeo.com/599297381,vimeo,Background/Color Change
+319,4140.mp4,"Swap next and best, any 10 sec video",https://vimeo.com/600219775,vimeo,Text Replaced/Text Added
+320,4141.mp4,Speed up and slow down video fragments 00: 01-00: 11,https://vimeo.com/599491313,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+321,4142.mp4,Change voice to dog barking 00: 03-00: 08,https://vimeo.com/593611972,vimeo,Audio replaced/Audio added
+322,4143.mp4,Add birds in the sky 00: 00-00: 10,https://vimeo.com/591829254,vimeo,Adding an entity/ Adding a subject
+323,4144.mp4,Remove any 2 logos from the wall 00: 10-00: 16 sec.,https://vimeo.com/596634399,vimeo,Removing an entity/Removing a subject
+324,4145.mp4,Change the color of the shirt to light green 00: 03-00: 10,https://vimeo.com/598935847,vimeo,Background/Color Change
+325,4146.mp4,"Change the text ""Delray Beach"" to ""Lorem Ipsum""",https://vimeo.com/594078370,vimeo,Text Replaced/Text Added
+326,4147.mp4,Speed up and duplicate frames 00: 08-00: 18,https://vimeo.com/601011556,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+327,4148.mp4,Change the sound to Scottish bagpipes 00: 00-00: 10,https://vimeo.com/599061907,vimeo,Audio replaced/Audio added
+328,4149.mp4,Replace the framed picture with a forest landscape 08: 34-08: 42,https://vimeo.com/598982443,vimeo,Adding an entity/ Adding a subject
+329,4150.mp4,Remove marching people 00: 39-00: 43 sec,https://vimeo.com/594027288,vimeo,Removing an entity/Removing a subject
+330,4151.mp4,Change the color of the guy's shirt on the right to orange 00: 02-00: 07 sec,https://vimeo.com/596077944,vimeo,Background/Color Change
+331,4152.mp4,"Add the text ""Lorem Ipsum"" instead of the picture on the wall 00: 00-00: 12 sec",https://vimeo.com/593948040,vimeo,Text Replaced/Text Added
+332,4153.mp4,"Slow down, duplicate frames 03: 05-03: 15",https://vimeo.com/601033770,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+333,4154.mp4,Reverse audio 00: 00-00: 10,https://vimeo.com/599086861,vimeo,Audio replaced/Audio added
+334,4155.mp4,Add a sitting owl to the fence between females 00: 15-00: 20,https://vimeo.com/598952735,vimeo,Adding an entity/ Adding a subject
+335,4156.mp4,Remove a person near the water at 00: 12-00: 17 sec.,https://vimeo.com/20995778,vimeo,Removing an entity/Removing a subject
+336,4157.mp4,Change the background to a white wall with flowers 00: 00-00: 5,https://vimeo.com/596501391,vimeo,Background/Color Change
+337,4158.mp4,"Change the text on the right to ""Art as language"" 00:18-00:23",https://vimeo.com/377706662,vimeo,Text Replaced/Text Added
+338,4159.mp4,Speed up and duplicate frames 00: 00-00: 10 sec,https://vimeo.com/594307268,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+339,4160.mp4,Add drum sounds 00: 01-00: 07,https://vimeo.com/599029363,vimeo,Audio replaced/Audio added
+340,4161.mp4,Add a grazing cow in the background 00: 06-00: 12 sec,https://vimeo.com/593569948,vimeo,Adding an entity/ Adding a subject
+341,4162.mp4,Remove fire extinguisher sign 01: 10-01: 15,https://vimeo.com/601146580,vimeo,Removing an entity/Removing a subject
+342,4163.mp4,Change sky color to bluer 00: 00-00: 05,https://vimeo.com/538803888,vimeo,Background/Color Change
+343,4164.mp4,"Change the text to ""5 days. Charleston. South Carolina"" 00: 00-00: 05",https://vimeo.com/601126363,vimeo,Text Replaced/Text Added
+344,4165.mp4,"Duplicate, slow down 00: 02-00: 12",https://vimeo.com/593529827,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+345,4166.mp4,Replace with saqfoson sound 00: 10-00: 15,https://vimeo.com/601043063,vimeo,Audio replaced/Audio added
+346,4167.mp4,Simulate a switched off monitor 00: 02-00: 07,https://vimeo.com/592730587,vimeo,Adding an entity/ Adding a subject
+347,4168.mp4,Remove the island in the middle 00: 11-00: 17,https://vimeo.com/169054468,,Removing an entity/Removing a subject
+348,4169.mp4,Change the color of the cap 00: 05-00: 10,https://vimeo.com/59274243,vimeo,Background/Color Change
+349,4170.mp4,Change the text to Marie Hemingway. Cyclist 00: 00-00: 05,https://vimeo.com/395849427,vimeo,Text Replaced/Text Added
+350,4171.mp4,Slow down speed up video fragments 00: 02-00: 12 sec,https://vimeo.com/593763216,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+351,4172.mp4,Reverse sound track for any 10 seconds,https://vimeo.com/56177944,vimeo,Audio replaced/Audio added
+352,4173.mp4,Add in front of the man - bear 00: 00-00: 05 sec,https://vimeo.com/594232417,vimeo,Adding an entity/ Adding a subject
+353,4174.mp4,Remove any one white-red pipe 00: 12-00: 17,https://vimeo.com/177952174,vimeo,Removing an entity/Removing a subject
+354,4175.mp4,Change tie color to turquoise 00: 00-00: 05,https://vimeo.com/537910812,vimeo,Background/Color Change
+355,4176.mp4,"Add vertical text to the pillar between ""glamor"" windows any 10 sec",https://vimeo.com/102340026,,Text Replaced/Text Added
+356,4177.mp4,Speed up and slow down video fragments 00: 01-00: 12 sec,https://vimeo.com/593581990,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+357,4178.mp4,Replace with xylophone sound 00: 05-00: 10,https://vimeo.com/154982961,vimeo,Audio replaced/Audio added
+358,4179.mp4,Add a picture of nature to the white wall on the left 00: 00-00: 05,https://vimeo.com/593378404,vimeo,Adding an entity/ Adding a subject
+359,4180.mp4,Remove the boat with the girl 00: 05-00: 10,https://vimeo.com/571025726,vimeo,Removing an entity/Removing a subject
+360,4181.mp4,Change the color of the water to green 00: 00-00: 05,https://vimeo.com/581580011, vimeo,Background/Color Change
+361,4182.mp4,"Change the text to Alexandro Roy. TV presenter, journalist 00: 00-00: 05",https://vimeo.com/410675626,vimeo,Text Replaced/Text Added
+362,4183.mp4,Speed up duplicate frames 00: 00-00: 10,https://vimeo.com/357955801,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+363,4184.mp4,Speed up the audio track 00: 00-00: 10,https://vimeo.com/174467536,vimeo,Audio replaced/Audio added
+364,4185.mp4,Add a picture of nature to the white wall on the left 00: 00-00: 05,https://vimeo.com/593378404,vimeo,Adding an entity/ Adding a subject
+365,4186.mp4,Remove the person on the left 00: 05-00: 10,https://vimeo.com/75320422,vimeo,Removing an entity/Removing a subject
+366,4187.mp4,Change the color of the T-shirt under the jacket to orange 00: 00-00: 05,https://vimeo.com/323209206, vimeo,Background/Color Change
+367,4188.mp4,Change the text to Michael Byne. Chief Engineer. Construction company 00: 39-00: 44,https://vimeo.com/286011983,vimeo,Text Replaced/Text Added
+368,4189.mp4,"Speed up, slow down, reverse 00: 08-00: 18",https://vimeo.com/81105689,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+369,4190.mp4,Add flute sound for any 10 seconds,https://vimeo.com/594078183,vimeo,Audio replaced/Audio added
+370,4191.mp4,Add hat 00: 00-00: 06 sec,https://vimeo.com/593414483,vimeo,Adding an entity/ Adding a subject
+371,4192.mp4,Remove the girl on the left 02: 05-02: 10,https://vimeo.com/595995270,vimeo,Removing an entity/Removing a subject
+372,4193.mp4,Change mask color to green any 5 seconds,https://vimeo.com/596722374,vimeo,Background/Color Change
+373,4194.mp4,"Change the time on the dial to ""23:23: ....."" 00: 00-00: 06 sec",https://vimeo.com/594077553,vimeo,Text Replaced/Text Added
+374,4195.mp4,Duplicate and flip frames 00: 05-00: 15 sec,https://vimeo.com/594351039,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+375,4196.mp4,Add Scottish bagpipe sound 00: 00-00: 12 sec,https://vimeo.com/594166364,vimeo,Audio replaced/Audio added
+376,4197.mp4,Add pink flamingos on the shore 00: 01-00: 10 sec,https://vimeo.com/594367506,vimeo,Adding an entity/ Adding a subject
+377,4198.mp4,Remove the player in red after whom everyone is running 00: 06-00: 11 sec.,https://vimeo.com/596455137,vimeo,Removing an entity/Removing a subject
+378,4199.mp4,Change the color of the owl on the shirt 00: 03-00: 08 sec,https://vimeo.com/594669895,vimeo,Background/Color Change
+379,4200.mp4,"Change the text above the entrance to ""Lorem Ipsum"" 00: 00-00: 05 sec",https://vimeo.com/593845663,vimeo,Text Replaced/Text Added
+380,4201.mp4,Change tie color to yellow 00:00-00:05,https://vimeo.com/134893942,vimeo,Background/Color Change
+381,4202.mp4,"Change the text to ""Kate Wilson, history professor
+The University of Arizona ""from 00:02-00:07",https://vimeo.com/247040671,vimeo,Text Replaced/Text Added
+382,4203.mp4,Speed up and slow down video fragments 00:04-00:14,https://vimeo.com/12785395,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+383,4204.mp4,Change the sound to cello 00:00-00:05,https://vimeo.com/19423213,vimeo,Audio replaced/Audio added
+384,4205.mp4,Add a photo of New York instead of the top picture on the right 00:00-00:05,https://vimeo.com/415625817,vimeo,Adding an entity/ Adding a subject
+385,4206.mp4,Remove a walking person from behind 00:10-00:15,https://vimeo.com/267694361,vimeo,Removing an entity/Removing a subject
+386,4207.mp4,Change laptop lid to blue 00:12-00:17,https://vimeo.com/26352664,vimeo,Background/Color Change
+387,4208.mp4,"Change the inscription on the bridge to ""I love jumping"" 00:00-00:05",https://vimeo.com/32387616,vimeo,Text Replaced/Text Added
+388,4209.mp4,Speed up and duplicate frames 00:00-00:10,https://vimeo.com/152903522,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+389,4210.mp4,Replace the sound with a violin sound 00:12-00:17,https://vimeo.com/487722497,vimeo,Audio replaced/Audio added
+390,4211.mp4,Add a picture of nature protection to the screen 00:11-00:16,https://vimeo.com/5224483,vimeo,Adding an entity/ Adding a subject
+391,4212.mp4,Remove swimming killer whale 00:05-00:10,https://vimeo.com/110164810,vimeo,Removing an entity/Removing a subject
+392,4213.mp4,Change hood color 00:08-00:13,https://vimeo.com/381052000,vimeo,Background/Color Change
+393,4214.mp4,"Change the text on the board to ""What
+Where
+When ""00:30-00:35",https://vimeo.com/574924983,vimeo,Text Replaced/Text Added
+394,4215.mp4,Speed up and slow down 00:11-00:21,https://vimeo.com/177956507,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+395,4216.mp4,Replace with the sound of the accordion 00:06-00:10,https://vimeo.com/42095514,vimeo,Audio replaced/Audio added
+396,4217.mp4,Add a flying eagle to the background 00:01-00:06,https://vimeo.com/76388663,vimeo,Adding an entity/ Adding a subject
+397,4218.mp4,Remove the ball from 00:33-00:38,https://vimeo.com/173192177,vimeo,Removing an entity/Removing a subject
+398,4219.mp4,Change the wall color to bright yellow 00:00-00:05,https://vimeo.com/72959026,vimeo,Background/Color Change
+399,4220.mp4,"Change the text of the white sign on the back to ""Basketball is a sport of millions"" 00:10-00:15",https://vimeo.com/81073823,vimeo,Text Replaced/Text Added
+400,4221.mp4,Speed up and duplicate frames 00:44-00:54,https://vimeo.com/216608666,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+401,4222.mp4,Replace the sound with synthesizer and maracas 00:01-00:06,https://vimeo.com/378283760,vimeo,Audio replaced/Audio added
+402,4223.mp4,Add a beard to a guy 00:06-00:11,https://vimeo.com/41727026,vimeo,Adding an entity/ Adding a subject
+403,4224.mp4,Remove the goalkeeper in blue 00:18-00:22,https://vimeo.com/134896800,vimeo,Removing an entity/Removing a subject
+404,4226.mp4,"Change the inscription on the T-shirt to ""Bahamas"" 00:57-01:03",https://vimeo.com/17225316,vimeo,Text Replaced/Text Added
+405,4227.mp4,Speed up and slow down fragments 00:01-00:11,https://vimeo.com/27841108,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+406,4228.mp4,Replace the sound with a double bass and bongos 00:00-00:05,https://vimeo.com/104264357,vimeo,Audio replaced/Audio added
+407,4229.mp4,Add a fly flying near the head 00:00-00:05,https://vimeo.com/119584633,vimeo,Adding an entity/ Adding a subject
+408,4230.mp4,Remove guy bartender 00:07-00:12,https://vimeo.com/115925959,vimeo,Removing an entity/Removing a subject
+409,4231.mp4,Change hair color to Crimson 00:32-00:38,https://vimeo.com/38762822,vimeo,Background/Color Change
+410,4233.mp4,Slow down and reverse 00:05-00:15,https://vimeo.com/35856767,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+411,4234.mp4,Add the sound of a purr of a cat and a sound of castanets 00:00-00:05,https://vimeo.com/69124610,vimeo,Audio replaced/Audio added
+412,4239.mp4,"Slow down fragments, reverse 00:09-00:18",https://vimeo.com/475498099,vimeo,Frame duplication/Reversed Frames/Frame dropping/Speeding up/Slowing down
+413,4240.mp4,Replace the sound with a tambourine sound 00:00-00:05,https://vimeo.com/179407347,vimeo,Audio replaced/Audio added
