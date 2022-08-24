@@ -47,11 +47,11 @@ The dataset being released is organized as follow:
 
 1. [Source of the videos, and manipulation tasks performed on each](VideoSourceandEdits.csv)
 2. Trimmed videos
-   1. Part 1 (videos 1-179): Click on "Releases" on your right - [Unedited-Part1.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Unedited-Part1.zip)
-   2. Part 2 (videos 180-352): Click on "Releases" on your right - [Unedited-Part2.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Unedited-Part2.zip)
+   1. Part 1 (videos 1-179): [Unedited-Part1.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Unedited-Part1.zip)
+   2. Part 2 (videos 180-352): [Unedited-Part2.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Unedited-Part2.zip)
 3. Manipulated videos
-   1. Part 1 (videos 1-179): Click on "Releases" on your right - [Processed-Part1.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Processed-Part1.zip)
-   2. Part 2 (videos 180-352): Click on "Releases" on your right - [Processed-Part2.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Processed-Part1.zip)
+   1. Part 1 (videos 1-179): [Processed-Part1.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Processed-Part1.zip)
+   2. Part 2 (videos 180-352): [Processed-Part2.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Processed-Part1.zip)
 
 
 ## Dataset Examples
