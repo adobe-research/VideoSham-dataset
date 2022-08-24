@@ -1,6 +1,6 @@
 # VideoSham Dataset
 
-This repository provides data for the VideoSham Dataset as described in the paper
+This repository provides the VideoSham Dataset as described in the paper:
 ### [Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis](https://arxiv.org/abs/2207.13064">here)
 [Trisha Mittal](https://www.cs.umd.edu/~trisha/),
 [Ritwik Sinha](https://research.adobe.com/person/ritwik-sinha/),
