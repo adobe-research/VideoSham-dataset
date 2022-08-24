@@ -33,7 +33,7 @@ Below is the number of videos edited using each of the six editing strategies.
 | **Grand Total**                                                             |             352 |
 
 
-![This is an image](images/edit_types.png)
+![This is an image](images/edit_types.png|width=100)
 
 
 ## Dataset Structure
