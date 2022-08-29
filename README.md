@@ -51,7 +51,7 @@ The dataset being released is organized as follow:
    2. Part 2 (videos 180-352): [Unedited-Part2.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Unedited-Part2.zip)
 3. Manipulated videos
    1. Part 1 (videos 1-179): [Processed-Part1.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Processed-Part1.zip)
-   2. Part 2 (videos 180-352): [Processed-Part2.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Processed-Part1.zip)
+   2. Part 2 (videos 180-352): [Processed-Part2.zip](https://github.com/adobe-research/VideoSham-dataset/releases/download/v1.0/Processed-Part2.zip)
 
 
 ## Dataset Examples
